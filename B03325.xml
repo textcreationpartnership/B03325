@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act by the general meeting of the Fishing Society, licencing the exportation of herrings. At Edinburgh, the 12. day of July, 1678.</title>
+            <author>Fishing Society (Scotland).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03325</idno>
+            <idno type="STC">Wing F1061A</idno>
+            <idno type="STC">ESTC R177079</idno>
+            <idno type="EEBO-CITATION">52612162</idno>
+            <idno type="OCLC">ocm 52612162</idno>
+            <idno type="VID">179457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179457)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2789:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act by the general meeting of the Fishing Society, licencing the exportation of herrings. At Edinburgh, the 12. day of July, 1678.</title>
+                  <author>Fishing Society (Scotland).</author>
+                  <author>Murray, Patrick, fl. 1678.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, printer to his most Sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at foot of text: Extracted by me, Pat. Murray.</note>
+                  <note>Reproduction of the original in the</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Herring industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Export controls --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179457:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>CT by the general Meeting of the Fiſhing Society, licencing the Exportation of Herrings.</head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi> 
+                  <date>the 12. day of <hi>July,</hi> 1678.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Royal Company, authorized by His Sacred <hi>Majeſty</hi> to be the only ex<g ref="char:EOLhyphen"/>porters of Herrings and other white Fiſh, Did, upon certain conſiderations, give and grant licence to all Natives inhabitants of this Kingdom, for the ſeaſons of Fiſh<g ref="char:EOLhyphen"/>ing, 1673, 1674, 1675, 1676, and 1677. to make and export Herrings with the Re<g ref="char:EOLhyphen"/>ſtrictions and Impoſitions therein mentioned; as likewiſe, by their <hi>Act</hi> of the general Meeting the 10. of <hi>December,</hi> 1677. did retract the ſaid Licence upon certain grounds and reaſons therein expreſt: Notwithſtanding of which, the general Meeting does for this next ſeaſon of Fiſhing, 1678. continue the Licence for making and exporting of Herrings upon the Reſtrictions aftermentioned, and of payment of ſix pounds ſcots <hi>per</hi> Laſt, for the uſe and behoove of the Company, for the Liberty of Export: That is to ſay, All Natives Inhabitants of this Kingdom, may fiſh and export Herrings at <hi>Dumbar</hi> and places adjacent, and the North-Lochs commonly deſigned the <hi>Lews,</hi> at any time they pleaſe, and the Weſtern Fiſhing within the Mules of <hi>Galloway</hi> and <hi>Kintyre, Clyde,</hi> and the adjacent Lochs included, at any time after the 20. day of <hi>September,</hi> not beginning ſooner to fiſh for export in theſe Precincts, nor for Domeſtick uſe, except as is here<g ref="char:EOLhyphen"/>after expreſly provided; providing alwayes, that all Herrings for export ſhall be made up in oaken Barrels of the bigneſs and ſize with the Companies Cask, which contains eight Gallons four Pynts; That they be made and cured in the ſame manner the Company doe, and ſalted with ſuch Salt as they do, and to be re-pack'd, and at their Re-packing, to be overſeen by any appointed by the Managers of the Society for that effect, who is to <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t a burnt Mark upon each Barrel, if they be ſufficient and fit for Export, and is to be entred, and pay to any appoin<g ref="char:EOLhyphen"/>ted by the Managers for uplifting the ſame, the ſum of ſix Pounds <hi>per</hi> Laſt, for the Liberty of Export, and that als well of the Herrings taken at <hi>Dumbar</hi> and the <hi>Lewis,</hi> as theſe to be exported from the Weſtern Lochs: And now ſince the Company has diſpenſed with the <hi>Dumbar</hi> and <hi>Lews</hi> Fiſhing for this next Seaſon, and having made proviſion of Barrels for that eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, any intending for theſe Fiſhings is hereby oblieged proportionally to take off the Barrels provided by the Company, they ſtill being good and ſufficient, and at as eaſie rates as others <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffords them. And likewayes, all the Veſſels intending for the north Lochs or <hi>Lews</hi> fiſhing, their Owners or <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aughters are hereby oblieged to make intimation to the Directors of the Company at <hi>Edinburgh</hi> of the ſame, and of the Veſſels burden: And any intending to order their Veſſels beyond Seas before their r<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turn, in that caſe, they are oblieged to take an authorized Couper, who muſt give his oath to the Directors for making of the Herrings in manner before-mentioned, and the Merchants or Owners ſhall give ſecurity to the Managers for pay<g ref="char:EOLhyphen"/>ment of the ſix pounds <hi>per</hi> Laſt, and ſhall have a Warrant from them for that effect; Hereby declaring, this preſent Licence is ſtill reſerving to the Company the early Fiſhing in the Weſtern Lochs, within the Mules of <hi>Galloway</hi> and <hi>Kintyre</hi> only improven by them, that Countrey never being in uſe formerly to fiſh before the time limited: And ſeeing how ſmall effect their Acts have taken, the Merchants fiſhing and ſalting vaſt quantities of Herri<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore the time limited, upon pretence they are for domeſtick uſe, hath them at all parts beyond ſeas be<g ref="char:EOLhyphen"/>fore the Company; and being unſufficient, as made in haſte and not right cured, puts a diſ-eſteem upon the Com<g ref="char:EOLhyphen"/>panies Fiſh, ſpoils the Mercats abroad, and diminiſhes the quantity the Company would otherwayes make, and over-rates the early green Herrings at home. Therefore the ſaid general Meeting of the fiſhing Society, do hereby prohibite and diſcharge all Merchants, Skippers, or Owners of any Veſſel, Bark or Boat, Seamen, Coupers, or other Trade<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men, Fiſher, or any other perſon or perſons whatſoever, to ſalt and barrell Herrings before the 20. day of <hi>September,</hi> and that under the pain of Confiſcation, of what Herrings ſhall be found to be barrelled before the ſaid day; As alſo, of the Veſſel or Veſſels where any ſuch herrings, or barrells, with <hi>Spainiſh</hi> or <hi>French</hi> Salt ſhall be found, either in Ships<g ref="char:punc">▪</g> Barks, Boats, Couper-boats, or any other Veſſel or Boat whatſoever, in any of the Lochs or Creeks within the Mules of <hi>Galloway</hi> and <hi>Kintyre,</hi> or upon the River of <hi>Clyd,</hi> or of any Herrings barrelled that ſhall be found upon land, in Buiths, Houſes, or elſewhere within the ſaid Precinct, before the 20. of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> and is to be confiſcat for the uſe and behoove of the fiſhing Society; excepting alwayes all Noblemen, Gentle<g ref="char:EOLhyphen"/>men, and others, that do make and barrell Herrings for the proper uſe of their own reſpective families, provi<g ref="char:EOLhyphen"/>ding they intimate to the Overſeer of the Company at <hi>Greenock,</hi> how many barrells they are to make, and give ſurety to him they ſhall be landed and expended accordingly within the countrey, and the ſaid Overſeer ſhall give Warrand for this effect: And any perſon whatſoever, who ſhall be found barrelling Herrings before the 20. of <hi>September,</hi> not having Warrand as ſaid is, ſhall confiſcat ſuch Herrings and Barrells, with the Veſſel or Veſſels wherein they ſhall be found, for the uſe and behoove of the Company: And do hereby continue the Licence for Exporting of Herrings, for the next ſeaſon of fiſhing as is above-mentioned, they obſerving the Inſtructions, Rules, and Intimations, and not ſalting or barrelling Herrings, before the 20. of <hi>September;</hi> with certification as is above-expreſt, and the contraveeners to be purſued againſt, according to the Patent and Priviledge of the Company. Extracted by me,</p>
+            <closer>
+               <signed>PAT. M<g ref="char:V">Ʋ</g>RRAY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>DINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty,</hi> 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
